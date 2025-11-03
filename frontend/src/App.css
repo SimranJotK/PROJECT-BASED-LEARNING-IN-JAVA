@@ -1,0 +1,46 @@
+/* CONTACT SECTION STYLING */
+.contact-section {
+    margin: 50px 60px;
+    text-align: center;
+}
+
+.contact-section h2 {
+    color: #007F86;
+    margin-bottom: 30px;
+    font-weight: 800;
+}
+
+.contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.contact-card {
+    flex: 1 1 300px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card h3 {
+    color: #007F86;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contact-card p {
+    margin: 8px 0;
+    color: #666;
+    line-height: 1.5;
+}
+
+.contact-card strong {
+    color: #333;
+}
+
+/*HOME PAGE STYLING ENDS HERE*/
